@@ -1,0 +1,137 @@
+{
+  "users": [
+    {
+      "username": "Sudeep",
+      "email": "sudeeptimalsina18@gmail.com",
+      "gender": "male",
+      "hobbies": [
+        "Reading",
+        "Writing"
+      ],
+      "review": 24,
+      "notificaiton": true,
+      "id": 1
+    },
+    {
+      "username": "dfs",
+      "email": "jasdvir@ourdesignz.in",
+      "gender": "male",
+      "hobbies": [
+        "Reading"
+      ],
+      "review": 16,
+      "notificaiton": true,
+      "id": 2
+    },
+    {
+      "username": "hello",
+      "email": "jk@gmail.com",
+      "gender": "male",
+      "hobbies": [
+        "Writing"
+      ],
+      "review": 7,
+      "notificaiton": true,
+      "id": 3
+    }, {
+      "username": "Sudeep",
+      "email": "sudeeptimalsina18@gmail.com",
+      "gender": "male",
+      "hobbies": [
+        "Reading",
+        "Writing"
+      ],
+      "review": 24,
+      "notificaiton": true,
+      "id": 4
+    },
+    {
+      "username": "dfs",
+      "email": "jasdvir@ourdesignz.in",
+      "gender": "male",
+      "hobbies": [
+        "Reading"
+      ],
+      "review": 16,
+      "notificaiton": true,
+      "id": 5
+    },
+    {
+      "username": "hello",
+      "email": "jk@gmail.com",
+      "gender": "male",
+      "hobbies": [
+        "Writing"
+      ],
+      "review": 7,
+      "notificaiton": true,
+      "id": 6
+    }, {
+      "username": "Sudeep",
+      "email": "sudeeptimalsina18@gmail.com",
+      "gender": "male",
+      "hobbies": [
+        "Reading",
+        "Writing"
+      ],
+      "review": 24,
+      "notificaiton": true,
+      "id": 7
+    },
+    {
+      "username": "dfs",
+      "email": "jasdvir@ourdesignz.in",
+      "gender": "male",
+      "hobbies": [
+        "Reading"
+      ],
+      "review": 16,
+      "notificaiton": true,
+      "id": 8
+    },
+    {
+      "username": "hello",
+      "email": "jk@gmail.com",
+      "gender": "male",
+      "hobbies": [
+        "Writing"
+      ],
+      "review": 7,
+      "notificaiton": true,
+      "id": 9
+    }, {
+      "username": "Sudeep",
+      "email": "sudeeptimalsina18@gmail.com",
+      "gender": "male",
+      "hobbies": [
+        "Reading",
+        "Writing"
+      ],
+      "review": 24,
+      "notificaiton": true,
+      "id": 10
+    },
+    {
+      "username": "dfs",
+      "email": "jasdvir@ourdesignz.in",
+      "gender": "male",
+      "hobbies": [
+        "Reading"
+      ],
+      "review": 16,
+      "notificaiton": true,
+      "id": 11
+    },
+    {
+      "username": "hello",
+      "email": "jk@gmail.com",
+      "gender": "male",
+      "hobbies": [
+        "Writing"
+      ],
+      "review": 7,
+      "notificaiton": true,
+      "id": 12
+    }
+  ]
+}

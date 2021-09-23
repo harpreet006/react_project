@@ -1,0 +1,79 @@
+.logo {
+	float: left;
+    width: 64px;
+    height: 64px;
+    margin: 0px;
+    overflow: auto;
+}
+.logo img {
+    width: 88%;
+}
+.logo a {
+    width: 100%;
+}
+.carousel-slider {
+	height: '160px';
+	color: '#fff';
+	lineHeight: '160px';
+	textAlign: 'center';
+	background: '#364d79';
+  }
+  
+  /* For demo */
+.ant-carousel >>> .slick-slide {
+  text-align: center;
+  height: 160px;
+  line-height: 160px;
+  background: #364d79;
+  overflow: hidden;
+}
+
+.ant-carousel >>> .custom-slick-arrow {
+  width: 25px;
+  height: 25px;
+  font-size: 25px;
+  color: #fff;
+  background-color: rgba(31, 45, 61, 0.11);
+  opacity: 0.3;
+}
+.ant-carousel >>> .custom-slick-arrow:before {
+  display: none;
+}
+.ant-carousel >>> .custom-slick-arrow:hover {
+  opacity: 0.5;
+}
+
+.ant-carousel >>> .slick-slide h3 {
+  color: #fff;
+}
+
+.ant-carousel .slick-slide img{
+  width: 100%;
+  height:421px;
+}
+span.ant-divider-inner-text {
+    font-size: 41px;
+}
+
+.about-us-page {
+    position: relative;
+    z-index: 1;
+    text-align: center;
+}
+
+.aboutUs-section {
+    color: #f0f0f0;
+    font-size: 100px;
+    line-height: 0.6;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: -1;
+    opacity: .8;
+    font-family: Monoton,cursive;
+    text-transform: uppercase;
+}
+.about-us-content-a-img img{
+	width:100%
+}
